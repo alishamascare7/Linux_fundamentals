@@ -91,16 +91,16 @@ ls -l → detailed list (permissions)
 ## Linux Hands-On Practice Screenshots
 
 ### Removing Directory Command
-![Remove directory](screenshots/linux_remove_dir.png)
+![Linux Auth Screenshot](linux_remove_dir.png)
 
 ### Script Execution
-![Linux script](screenshots/linux_script.png)
+![Linux Auth Screenshot](linux_script.png)
 
 ### Authentication Log Analysis
 ![Linux Auth Screenshot](linux_auth.png)
 
 ### Linux Scripts Report
-![Scripts](screenshots/linux_report.png)
+![Linux Auth Screenshot](linux_report.png)
 
 
 ---
