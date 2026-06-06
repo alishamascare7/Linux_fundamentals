@@ -87,6 +87,20 @@ ls -l → detailed list (permissions)
 - Basic incident response simulation
 - SOC-style alert generation
 
+---
+## Linux Hands-On Practice Screenshots
+
+### Removing Directory Command
+![Remove directory](screenshots/linux_remove_dir.png)
+
+### Script Execution
+![Linux script](screenshots/linux_script.png)
+
+### Authentication Log Analysis
+![Auth log](screenshots/linux_auth_log.png)
+
+### Linux Scripts Report
+![Scripts](screenshots/linux_report.png)
 
 ---
 
