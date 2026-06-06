@@ -97,7 +97,7 @@ ls -l → detailed list (permissions)
 ![Linux script](screenshots/linux_script.png)
 
 ### Authentication Log Analysis
-![Auth log](screenshots/linux_auth.png)
+![Linux Auth Screenshot](linux_auth.png)
 
 ### Linux Scripts Report
 ![Scripts](screenshots/linux_report.png)
